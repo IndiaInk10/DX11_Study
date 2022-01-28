@@ -1,0 +1,8 @@
+﻿  BoxDemo.cpp
+Effects11d.lib(d3dxGlobal.obj) : warning LNK4099: PDB 'Effects11d.pdb' was not found with 'Effects11d.lib(d3dxGlobal.obj)' or at 'C:\Users\user\source\repos\DX11_Study\Debug\Effects11d.pdb'; linking object as if no debug info
+Effects11d.lib(EffectAPI.obj) : warning LNK4099: PDB 'Effects11d.pdb' was not found with 'Effects11d.lib(EffectAPI.obj)' or at 'C:\Users\user\source\repos\DX11_Study\Debug\Effects11d.pdb'; linking object as if no debug info
+Effects11d.lib(EffectLoad.obj) : warning LNK4099: PDB 'Effects11d.pdb' was not found with 'Effects11d.lib(EffectLoad.obj)' or at 'C:\Users\user\source\repos\DX11_Study\Debug\Effects11d.pdb'; linking object as if no debug info
+Effects11d.lib(EffectNonRuntime.obj) : warning LNK4099: PDB 'Effects11d.pdb' was not found with 'Effects11d.lib(EffectNonRuntime.obj)' or at 'C:\Users\user\source\repos\DX11_Study\Debug\Effects11d.pdb'; linking object as if no debug info
+Effects11d.lib(EffectReflection.obj) : warning LNK4099: PDB 'Effects11d.pdb' was not found with 'Effects11d.lib(EffectReflection.obj)' or at 'C:\Users\user\source\repos\DX11_Study\Debug\Effects11d.pdb'; linking object as if no debug info
+Effects11d.lib(EffectRuntime.obj) : warning LNK4099: PDB 'Effects11d.pdb' was not found with 'Effects11d.lib(EffectRuntime.obj)' or at 'C:\Users\user\source\repos\DX11_Study\Debug\Effects11d.pdb'; linking object as if no debug info
+  DX11_Study.vcxproj -> C:\Users\user\source\repos\DX11_Study\Debug\DX11_Study.exe
